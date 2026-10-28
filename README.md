@@ -27,7 +27,7 @@ python main.py
 
 Need full business contact details for cold outreach?
 
-👉 [Download PRO Version on Gumroad](YOUR_GUMROAD_LINK_HERE)
+👉 [Download PRO Version on Gumroad](https://dimitrismastro.gumroad.com/l/gmaps-scraper-pro) 19€
 
 ### ⚡ PRO Features:
 - 📞 Extract **Phone Numbers, Websites, & Addresses**
