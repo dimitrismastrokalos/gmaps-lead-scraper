@@ -1,0 +1,4 @@
+venv/
+__pycache__/
+leads_lite.csv
+.DS_Store
